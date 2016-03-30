@@ -1,0 +1,25 @@
+{
+  "name": "order-array-of-objects-by-other-array-and-keyname",
+  "version": "1.0.0",
+  "description": "Orders an array of objects with another array and key name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediaHound/order-array-of-objects-by-other-array-and-keyname.git"
+  },
+  "keywords": [
+    "array",
+    "order",
+    "sort",
+    "object"
+  ],
+  "author": "Matthias Sieber <matthias@mediahound.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MediaHound/order-array-of-objects-by-other-array-and-keyname/issues"
+  },
+  "homepage": "https://github.com/MediaHound/order-array-of-objects-by-other-array-and-keyname#readme"
+}
