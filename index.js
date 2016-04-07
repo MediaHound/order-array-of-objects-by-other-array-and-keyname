@@ -1,7 +1,7 @@
 'use strict';
 
 const findObject = (array, keyName, keyValue) => {
-  for (let i = 0; array.length; ++i) {
+  for (let i = 0; i < array.length; ++i) {
     if (array[i][keyName] === keyValue) {
       return array[i];
     }
