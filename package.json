@@ -1,6 +1,6 @@
 {
   "name": "order-array-of-objects-by-other-array-and-keyname",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Orders an array of objects with another array and key name",
   "main": "index.js",
   "scripts": {
